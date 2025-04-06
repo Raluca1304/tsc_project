@@ -3,13 +3,13 @@
 
 ---
 
-## Diagrama bloc
+## 1.Diagrama bloc
 
 ![Diagrama bloc](openbook_diagram.png)
 
 ---
 
-## BOM (Bill Of Materials)
+## 2.BOM (Bill Of Materials)
 
 |   Nr. piesa | Nume piesa    | Site                                                                                                                                                                                                                                                | Datasheet                                                                                                                                                                |
 |------------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -120,7 +120,7 @@
 
 ---
 
-## Descriere hardware
+## 3.Descriere hardware
 
 Proiectul OpenBook este un sistem portabil de monitorizare ambientala cu microcontroller ESP32-C6. Acesta comunica cu senzori, memorie externa si un ecran E-Ink pentru afisare. Dispozitivul este alimentat prin USB-C sau baterie Li-Po, avand management de energie eficient.
 
@@ -141,7 +141,7 @@ Proiectul OpenBook este un sistem portabil de monitorizare ambientala cu microco
 
 ---
 
-## Pinout ESP32-C6
+## 4.Pinout ESP32-C6
 
 | Componenta      | Pin ESP32-C6  | Interfata |
 |------------------|---------------|-----------|
@@ -157,11 +157,11 @@ Proiectul OpenBook este un sistem portabil de monitorizare ambientala cu microco
 
 ---
 
-## Alte informatii relevante
+## 5.Alte informatii relevante
 
 - Proiectul are protectie ESD pe liniile SPI si USB
 - PCB-ul este compatibil cu display-uri multiple prin selector
 - Include header Qwiic/Stemma pentru extensii I2C
-- Randari 3D PCB si imagini de asamblare disponibile in `assets/`
+- Randari 3D PCB si imagini de asamblare disponibile in `Images/`
 
 ---
