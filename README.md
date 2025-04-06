@@ -5,7 +5,7 @@
 
 ## Diagrama bloc
 
-![Diagrama bloc](downloads/final_block_diagram.png)
+![Diagrama bloc](downloads/openbook_diagram.png)
 
 ---
 
