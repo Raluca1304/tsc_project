@@ -1,6 +1,6 @@
 
 # PROIECT TSC OpenBook 
-## NICA MIOARA-RALUCA 334CA 
+## Nica Mioara-Raluca 334CA 
 
 ---
 
